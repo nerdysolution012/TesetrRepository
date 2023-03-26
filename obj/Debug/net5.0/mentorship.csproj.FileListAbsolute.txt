@@ -1,0 +1,16 @@
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\bin\Debug\net5.0\mentorship.exe
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\bin\Debug\net5.0\mentorship.deps.json
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\bin\Debug\net5.0\mentorship.runtimeconfig.json
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\bin\Debug\net5.0\mentorship.runtimeconfig.dev.json
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\bin\Debug\net5.0\mentorship.dll
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\bin\Debug\net5.0\mentorship.pdb
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\obj\Debug\net5.0\mentorship.csproj.AssemblyReference.cache
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\obj\Debug\net5.0\mentorship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\obj\Debug\net5.0\mentorship.AssemblyInfoInputs.cache
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\obj\Debug\net5.0\mentorship.AssemblyInfo.cs
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\obj\Debug\net5.0\mentorship.csproj.CoreCompileInputs.cache
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\obj\Debug\net5.0\mentorship.dll
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\obj\Debug\net5.0\refint\mentorship.dll
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\obj\Debug\net5.0\mentorship.pdb
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\obj\Debug\net5.0\mentorship.genruntimeconfig.cache
+C:\Users\nedysolution\Desktop\Rosheed\mentorship\mentorship\obj\Debug\net5.0\ref\mentorship.dll
